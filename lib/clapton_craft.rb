@@ -1,0 +1,3 @@
+class ClaptonCraft
+
+end

@@ -1,0 +1,3 @@
+class Cellar
+
+end
